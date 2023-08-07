@@ -1,0 +1,36 @@
+/*horarios de atención */
+
+th{
+    font-weight: bold;
+    color: #FF8033;
+    font-size: 20px;
+}
+
+
+td {
+    font-style: italic;
+    color: #FF339C;
+}
+
+/*header*/
+header{
+    background-color: #FBE5F1;
+    width: 100%;
+}
+footer {
+    background-color: #fEDEEF;
+    width: 100%;
+    height: auto;
+}
+li{
+    list-style: none;
+}
+
+/*formulario*/
+form {
+    border-top: 1px solid #FF339C;
+    border-bottom: 1px solid #FF339C;
+    border-right: 1px solid #FF339C;
+    border-left: 1px solid #FF339C;
+    
+}
